@@ -22,7 +22,7 @@ app.use(cookieParser());
 
 
 const corsOptions = {
-    origin:'https://hireup-zeta.vercel.app/',
+    origin:'https://hireup-zeta.vercel.app',
     credentials:true
 }
 
